@@ -1,18 +1,18 @@
 Date,Facilitator,POCF_Fname1,POCF_Lname1,POCF_Fname2,POCF_Lname2,SUE,BackUp,Location,Building_Training,Start_Time,End_Time
 Sept-14-2018,Katie Hodgson,Amanda,Pinto,,,Norman Schutz,,RS-2029,QS-Unit3,8,5
-Sept-18-2018,Emmanuel Bratsalis,APPARJIT,CHAUHAN,,,Gail Bellissimo,,QS-B40,QS-Unit3,8,5
+Sept-18-2018,Emmanuel Bratsalis,Trent,Coop,,,Gail Bellissimo,,QS-B40,QS-Unit3,8,5
 Sept-20-2018,Katie Hodgson,MEGAN,DUQUETTE,,,Lucy,,RS-2029,QS-Unit3,8,5
 Sept-26-2018,Katie Hodgson,MHAIRI,KAY,,,Norman Schutz,,QS-B40,QS-Unit3,8,5
-Sept-28-2018,Graham Vardy,Nan,Li,,,Norman Schutz,,QS-B40,QS-Unit3,8,5
+Sept-28-2018,Graham Vardy,Trent,Coop,,,Norman Schutz,,QS-B40,QS-Unit3,8,5
 Oct-2-2018,Emmanuel Bratsalis,OLENA,LENETS,,,Gail Bellissimo,,QS-B40,QS-Unit3,8,5
 Oct-4-2018,Katie Hodgson,Amanda,Pinto,,,Lisa Frys,,QS-1106,QS-Unit3,8,5
-Oct-10-2018,Graham Vardy,APPARJIT,CHAUHAN,,,Gail Bellissimo,,QS-B40,QS-Unit3,8,5
+Oct-10-2018,Graham Vardy,CHRISTINE ,LIVERANCE,,,Gail Bellissimo,,QS-B40,QS-Unit3,8,5
 Oct-16-2018,Emmanuel Bratsalis,MEGAN,DUQUETTE,,,,,RS-T321,QS-Unit3,8,5
 Oct-18-2018,Emmanuel Bratsalis,MHAIRI,KAY,,,Norman Schutz,,QS-1106,QS-Unit3,8,5
-Oct-24-2018,Emmanuel Bratsalis,Nan,Li,,,Lucy,,QS-B40,QS-Unit3,8,5
+Oct-24-2018,Emmanuel Bratsalis,Trent,Coop,,,Lucy,,QS-B40,QS-Unit3,8,5
 Oct-26-2018,Emmanuel Bratsalis,OLENA,LENETS,,,Lucy,,RS-2062,QS-Unit3,8,5
 Oct-30-2018,Emmanuel Bratsalis,Amanda,Pinto,,,Norman Schutz,,QS-B40,QS-Unit3,8,5
-Nov-1-2018,Steven Hughes,APPARJIT,CHAUHAN,,,Gail Bellissimo,,RS-2029,QS-Unit3,8,5
+Nov-1-2018,Steven Hughes,CHRISTINE ,LIVERANCE,,,Gail Bellissimo,,RS-2029,QS-Unit3,8,5
 Nov-7-2018,Emmanuel Bratsalis,MEGAN,DUQUETTE,,,Lucy,,QS-1106,QS-Unit3,8,5
 Oct-25-2018,Graham Vardy,Amanda,Cutler-Palma,,,Lucy,,RS-2029,IGW-80 WMW,8,5
 Oct-31-2018,Graham Vardy,Cinthia,Ramos,,,Dharshika Watson,,QS-B40,IGW-80 WMW,8,5
@@ -39,15 +39,15 @@ Oct-11-2018,Graham Vardy,Bobby,Bonner,,,Lucy,,QS-TRA,QS-Unit1,8,5
 Oct-19-2018,Emmanuel Bratsalis,Ukpong,James,,,Lucy,,QS-B40,QS-Unit1,8,5
 Oct-23-2018,Emmanuel Bratsalis,JOANNA,ZYGMUNT,,,Dharshika Watson,,QS-TRA,QS-Unit1,8,5
 Sept-11-2018,Steven Hughes,MIKAEL,MURIA-COURCHESNE,,,Lisa Frys,,QS-B40,QS-Unit2,8,5
-Sept-13-2018,Steven Hughes,CHRISTINE ,LIVERANCE,,,Dharshika Watson,,QS-B40,QS-Unit2,8,5
-Sept-19-2018,Steven Hughes,Diana,Gherutch,,,Gail Bellissimo,,QS-B40,QS-Unit2,8,5
-Sept-21-2018,Steven Hughes,Trent,Coop,,,Dharshika Watson,,QS-1123,QS-Unit2,8,5
+Sept-13-2018,Steven Hughes,Tessa,Lamont,,,Dharshika Watson,,QS-B40,QS-Unit2,8,5
+Sept-19-2018,Steven Hughes,Diana,Gherutchi,,,Gail Bellissimo,,QS-B40,QS-Unit2,8,5
+Sept-21-2018,Steven Hughes,APPARJIT,CHAUHAN,,,Dharshika Watson,,QS-1123,QS-Unit2,8,5
 Sept-25-2018,Steven Hughes,MIKAEL,MURIA-COURCHESNE,,,Dharshika Watson,,RS-2029,QS-Unit2,8,5
 Sept-27-2018,Steven Hughes,ERIN,LEDREW,,,Dharshika Watson,,RS-2022,QS-Unit2,8,5
-Oct-3-2018,Steven Hughes,Diana,Gherutch,,,Dharshika Watson,,RS-2022,QS-Unit2,8,5
-Oct-5-2018,Steven Hughes,Trent,Coop,,,Gail Bellissimo,,QS-1123,QS-Unit2,8,5
-Oct-11-2018,Steven Hughes,CHRISTINE ,LIVERANCE,,,Dharshika Watson,,QS-B40,QS-Unit2,8,5
-Oct-19-2018,Steven Hughes,Trent,Coop,,,Norman Schutz,,QS-1123,QS-Unit2,8,5
+Oct-3-2018,Steven Hughes,Diana,Gherutchi,,,Dharshika Watson,,RS-2022,QS-Unit2,8,5
+Oct-5-2018,Steven Hughes,Nan,Li,,,Gail Bellissimo,,QS-1123,QS-Unit2,8,5
+Oct-11-2018,Steven Hughes,APPARJIT,CHAUHAN,,,Dharshika Watson,,QS-B40,QS-Unit2,8,5
+Oct-19-2018,Steven Hughes,Nan,Li,,,Norman Schutz,,QS-1123,QS-Unit2,8,5
 Oct-23-2018,Steven Hughes,MIKAEL,MURIA-COURCHESNE,,,,,QS-B40,QS-Unit2,8,5
 Oct-25-2018,Katie Hodgson,CARMEN,NG,,,Norman Schutz,,QS-B40,QS-Unit4,8,5
 Oct-31-2018,Katie Hodgson,CHANTELLE,D'MELLO,,,Lucy,,QS-1123,QS-Unit4,8,5
@@ -68,7 +68,7 @@ Sept-26-2018,Anna Palaganas,ANMOL,DOOMRA,IBRAHIM,AKBAR,Dharshika Watson,,RS-2022
 Sept-28-2018,Anna Palaganas,ANUSON,WIJAYARATNAM,SO YOUNG(JULIA),KIM,Gail Bellissimo,,RS-2022,College,8,5
 Oct-2-2018,Anna Palaganas,ANYA,DIMACULANGAN,KAYLA,ENRIQUEZ,Dharshika Watson,,RS-2022,College,8,5
 Oct-4-2018,Anna Palaganas,IBRAHIM,AKBAR,YVONNE,TSUI,Dharshika Watson,,QS-1123,College,8,5
-Oct-10-2018,Anna Palaganas,JACOB,HARRISON,TESSA,LAMONT,Dharshika Watson,,QS-TRA,College,8,5
+Oct-10-2018,Anna Palaganas,JACOB,HARRISON,GOWSECA,MUTHIAH,Dharshika Watson,,QS-TRA,College,8,5
 Oct-12-2018,Anna Palaganas,JAMAL,VIRANI,ANMOL,DORMORA,Dharshika Watson,,QS-B40,College,8,5
 Oct-16-2018,Anna Palaganas,LIGHT,CHIOTU,ADAM,WARNE,Dharshika Watson,,QS-B40,College,8,5
 Oct-18-2018,Anna Palaganas,RICHARD (MILES),RUBIN,REBECCA,OLIVEIRA,Dharshika Watson,,RS-2029,College,8,5
@@ -76,6 +76,6 @@ Oct-24-2018,Anna Palaganas,SO YOUNG(JULIA),KIM,ANSUN,WIJAYARATNAM,Dharshika Wats
 Oct-26-2018,Anna Palaganas,LESLEY,LACKNER,ALICIA,PIMENTAL,Dharshika Watson,,QS-TRA,College,8,5
 Oct-30-2018,Anna Palaganas,Alexandra,Rand,ANYA,DIMACULANGAN,Dharshika Watson,,QS-TRA,College,8,5
 Nov-1-2018,Anna Palaganas,YVONNE,TSUI,JAMAL,VIRANI,Dharshika Watson,,RS-2022,College,8,5
-Nov-7-2018,,ANMOL,DOOMRA,KAYLA,ENRIQUEZ,Dharshika Watson,,RS-2022,College,8,5
+Nov-7-2018,,GOWSECA,MUTHIAH,KAYLA,ENRIQUEZ,Dharshika Watson,,RS-2022,College,8,5
 Oct-9-2018,Steven Hughes,MIKAEL,MURIA-COURCHESNE,,,,,QS-B40,QS-Unit2,8,5
 Oct-12-2018,Emmanuel Bratsalis,ERIN,LEDREW,,,,,QS-1123,QS-Unit3,8,5
