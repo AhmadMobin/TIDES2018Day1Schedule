@@ -1,5 +1,5 @@
 Date,Facilitator,POCF_Fname1,POCF_Lname1,POCF_Fname2,POCF_Lname2,SUE,BackUp,Location,Building_Training,Start_Time,End_Time,Confirm_1,Confirm_2
-Sept-14-2018,Katie Hodgson,Amanda,Pinto,,,Norman Schutz,,RS-2029,QS-Unit3,8,5,,
+Sept-14-2018,Katie Hodgson,,,,,Norman Schutz,,RS-2029,QS-Unit3,8,5,0,
 Sept-18-2018,Emmanuel Bratsalis,,,,,,,QS-B40,QS-Unit3,8,5,0,
 Sept-20-2018,Katie Hodgson,MEGAN,DUQUETTE,,,Lucy,,RS-2029,QS-Unit3,8,5,1,
 Sept-26-2018,Katie Hodgson,MHAIRI,KAY,,,Norman Schutz,,QS-B40,QS-Unit3,8,5,1,
@@ -69,7 +69,7 @@ Sept-28-2018,Anna Palaganas,ANMOL,DOOMRA,SO YOUNG(JULIA),KIM,,,RS-2022,College,8
 Oct-2-2018,Anna Palaganas,ANYA,DIMACULANGAN,KAYLA,ENRIQUEZ,Dharshika Watson,,RS-2022,College,8,5,,1
 Oct-4-2018,Anna Palaganas,IBRAHIM,AKBAR,ANMOL,DOOMRA,Dharshika Watson,,QS-1123,College,8,5,,1
 Oct-10-2018,Anna Palaganas,JACOB,HARRISON,GOWSECA,MUTHIAH,Dharshika Watson,,QS-TRA,College,8,5,,
-Oct-12-2018,Anna Palaganas,JAMAL,VIRANI,,,Dharshika Watson,,QS-B40,College,8,5,,0
+Oct-12-2018,Katie Hodgson,JAMAL,VIRANI,,,Dharshika Watson,,QS-B40,College,8,5,,0
 Oct-16-2018,Anna Palaganas,LIGHT,CHIOTU,,,Dharshika Watson,,QS-B40,College,8,5,1,0
 Oct-18-2018,Katie Hodgson,ALICIA,PIMENTAL,,,Dharshika Watson,,RS-2029,College,8,5,1,0
 Oct-24-2018,Anna Palaganas,SO YOUNG(JULIA),KIM,,,Dharshika Watson,,QS-1123,College,8,5,1,
